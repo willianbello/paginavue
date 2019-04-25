@@ -13,7 +13,8 @@ Certifique de que tenha o Node instalado no seu computador, do contrário, insta
 Para Windows: <a href="https://nodejs.org/en/">Baixe Aqui</a></li>
 
 Para Linux usar os comandos abaixo:
-  sudo apt-get install update
-  sudo apt-get install nodejs
-  sudo apt-get install npm
+<ul>
+  <li>sudo apt-get install update</li>
+  <li>sudo apt-get install nodejs</li>
+  <li>sudo apt-get install npm</li>
  </ul>
