@@ -1,8 +1,8 @@
 # paginavue
 Página criada com framework Vue-js
 
-<ul>
-  <li>A página está pronta, mas para rodar com todos os recursos é necessário rodar junto no seu computador o servidor de onde serão feitas as requisições das fotos no site.</li>
+
+ A página está pronta, mas para rodar com todos os recursos é necessário rodar junto no seu computador o servidor de onde serão feitas as requisições das fotos no site.
   <li>O servidor está dentro da pasta "servidor" neste mesmo repositório</li>
   <li>Para rodar o servidor, basta usar o comando "npm start" no seu terminal/cmd</li>
   <li>Certifique de que tenha o Node instalado no seu computador, do contrário, instale o a partir do link abaixo:
