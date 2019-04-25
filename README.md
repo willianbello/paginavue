@@ -4,9 +4,9 @@ Página criada com framework Vue-js
 
  A página está pronta, mas para rodar com todos os recursos é necessário rodar junto no seu computador o servidor de onde serão feitas as requisições das fotos no site.
  
-O servidor está dentro da pasta "servidor" neste mesmo repositório
+A api está dentro da pasta "api", basta descompactá-la e deixar na raiz que funcionará.
 
-Para rodar o servidor, basta usar o comando "npm start" no seu terminal/cmd
+Para rodar a api, basta usar o comando "npm start" no seu terminal/cmd
 
 Certifique de que tenha o Node instalado no seu computador, do contrário, instale o a partir do link abaixo:
 
